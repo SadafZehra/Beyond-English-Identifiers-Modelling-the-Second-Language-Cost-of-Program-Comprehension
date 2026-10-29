@@ -1,7 +1,5 @@
-# Lost in Identifiers
 
-**The hidden English cost of code for non-native programmers, and whether Roman Urdu explanations can help**
-
+## Beyond-English-Identifiers-Modelling-the-Second-Language-Cost-of-Program-Comprehension
 Almost all code is written with English names: `count_above`, `threshold`, `temperatures`. For a native speaker these names explain themselves. For a student in Karachi who thinks in Roman Urdu, every name is also a vocabulary item in a second language. This project asks how large that hidden cost is, which students pay it, and whether an AI assistant that explains code in the student's own language (English, Roman Urdu, or Urdu script) can reduce it.
 
 The notebook is a pilot study. It combines cognitive modelling with language models, a controlled code-renaming experiment, multilingual LLM explanations with faithfulness checks, and a few-shot method for choosing the explanation language for each student.
